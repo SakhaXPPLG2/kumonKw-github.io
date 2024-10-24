@@ -231,10 +231,10 @@ nav div img {
 }
 
 .image img{
-    padding-left: 125px;
+    padding-left: 90px;
     margin-left: auto;
     margin-top: 10px;
-    width: 900px;
+    width: 850px;
     height: 500px;
 }
 
@@ -452,8 +452,8 @@ nav div img {
 }
 
 .page-kami3 {
-    padding-left: 75px;
     padding-top: 20px;
+    padding-bottom: 22px;
     height: 20%;    
     color: white;
     background-color: #ffe6b8;
