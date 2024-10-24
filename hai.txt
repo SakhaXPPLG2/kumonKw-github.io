@@ -1,0 +1,25 @@
+logo utbk
+https://cdn-web-2.ruangguru.com/landing-pages/assets/hs/Ruangguru%20Revamp%202022/Product%20Selection/icon-utbk-persiapan.svg
+
+                <div class="tentang-kami">
+                    <h4>Tentang kami</h4>
+                </div>
+                <div class="image">
+                    <img src="Images/Tentang-kami.jpg" alt="">
+                </div> 
+                <div class="text_tentang-kami">
+                    <h3>Kemarin, hari ini, dan besok</h3>
+                    <p>Kami di Kumon selalu, dan akan selalu terus</p>
+                    <p>belajar karena itu adalah hal yang sangat penting</p>
+                </div>
+                <div class="sejarah-kumon">
+                    <h4>Sejarah Kumon</h4>
+                </div>
+                <div class="image2">
+                    <img src="Images/Sejarah-kumon.png" alt="">
+                </div> 
+                <div class="text_sejarah-kumon">
+                    <h3>Awal Kami</h3>
+                    <p>Berawal ketika seorang ibu yang bernama Teiko, </p>
+                    <p>yang menemukan kertas ujian di saku anaknya.</p>
+                </div>
